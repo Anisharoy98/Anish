@@ -13,4 +13,9 @@ public void fixed() {
 public void deposit() {
 	System.out.println("5% deposit");
 }
+	
+	public void loan() {
+		System.out.println("6% loan");
+	}
 }
+
