@@ -6,9 +6,7 @@ public void deposit() {
 	public void add() {
 		System.out.println("0 %");
 	}
-	
-
-public static void main(String[] args) {
+	public static void main(String[] args) {
 	AxisBank ax = new AxisBank();
 	ax.Bankinformation();
 	ax.add();
