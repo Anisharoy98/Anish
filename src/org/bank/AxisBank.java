@@ -8,10 +8,11 @@ public void deposit() {
 public static void main(String[] args) {
 	AxisBank ax = new AxisBank();
 	ax.Bankinformation();
-	ax.savings();
-	ax.fixed();
+	ax.sav();
+	ax.fix();
 	ax.deposit();
 	ax.loan();
+	
 }
 
 }
