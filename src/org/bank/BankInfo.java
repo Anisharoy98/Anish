@@ -4,10 +4,10 @@ public class BankInfo {
 	public void Bankinformation() {
 		System.out.println("Bank Details");
 	}
-public void savings() {
+public void sav() {
 	System.out.println("2% savings");
 }
-public void fixed() {
+public void fix() {
 	System.out.println("3% fixed");
 }
 public void deposit() {
